@@ -30,12 +30,16 @@ function initMap() {
 
   function updateMap() {
 
-    LifeEvents = {"1":{"oneEventId":"1","capLat":"37.7833","capLong":"-122.4167","Year":"2001", "Month":"10", "Day":"1", "eventType":"House party","members":"Beyonce, Solange, Jay-z, Blue Ivy"},
-                  "2":{"oneEventId":"2","capLat":"9.02848","capLong":"20.17261","Year":"2011", "Month":"8", "Day":"1", "eventType":"Wedding","members":"Beyonce, Solange, Jay-z, Blue Ivy"},
-                  "3":{"oneEventId":"3","capLat":"-23.97294","capLong":"-56.44329","Year":"3001", "Month":"5", "Day":"1", "eventType":"Engagement","members":"Beyonce, Solange, Jay-z, Blue Ivy"},
-                  "4":{"oneEventId":"4","capLat":"2.69982","capLong":" -60.27622","Year":"2021", "Month":"1", "Day":"1", "eventType":"Graduation","members":"Beyonce, Solange, Jay-z, Blue Ivy"},
-                  "5":{"oneEventId":"5","capLat":"-14.71794","capLong":"26.22664","Year":"2681", "Month":"9", "Day":"1", "eventType":"Renewing vows","members":"Beyonce, Solange, Jay-z, Blue Ivy"},
-                  "6":{"oneEventId":"6","capLat":"20.19324","capLong":"22.72833","Year":"2761", "Month":"12", "Day":"1", "eventType":"Honeymoon","members":"Beyonce, Solange, Jay-z, Blue Ivy"}
+    LifeEvents = {"1":{"oneEventId":"1","capLat":"45.0522","capLong":"-82.4846","Year":"Great Lakes, U.S.", "Month":"24 in", "Day":"Brown", "eventType":"","members":"Brown Trout"},
+                  "2":{"oneEventId":"2","capLat":"42.3173","capLong":"-71.3780","Year":"Lake Cochituate, MA", "Month":"18 in", "Day":"Green", "eventType":"","members":"Largemouth Bass"},
+                  "3":{"oneEventId":"3","capLat":"42.6112","capLong":"-70.5721","Year":"Gloucester, MA", "Month":"14 ft", "Day":"Blue", "eventType":"","members":"Bluefin Tuna"},
+                  "4":{"oneEventId":"4","capLat":"14.5699","capLong":"120.7233","Year":"Manila, Philippines", "Month":"12 in", "Day":"Gold", "eventType":"","members":"Tilapia"},
+                  "5":{"oneEventId":"5","capLat":"2.8692","capLong":"103.6843","Year":"Kuala Rompa, Malaysia", "Month":"9 ft", "Day":"Blue", "eventType":"","members":"Sailfish"},
+                  "6":{"oneEventId":"6","capLat":"59.6263","capLong":"-151.5115","Year":"Homer, Alaska", "Month":"36 in", "Day":"Red/ Silver", "eventType":"","members":"Chinook Salmon"},
+                  "7":{"oneEventId":"7","capLat":"-1.2904","capLong":"-62.0011","Year":"Amazon River, Brazil", "Month":"2 ft", "Day":"Various", "eventType":"","members":"Peacock Bass"},
+                  "8":{"oneEventId":"8","capLat":"59.0237","capLong":"13.6179","Year":"Lake Vanern, Sweden", "Month":"10 in", "Day":"Yellow", "eventType":"","members":"Yellow Perch"},
+                  "9":{"oneEventId":"9","capLat":"-4.6373","capLong":"55.5209","Year":"Seychelles, Africa", "Month":"12 in", "Day":"Brown/White", "eventType":"Poisonous","members":"Lionfish"},
+                  "10":{"oneEventId":"10","capLat":"-21.9321","capLong":"114.1551","Year":"Exmouth, Australia", "Month":"12 ft", "Day":"Black/White", "eventType":"","members":"Black Marlin"}
 
     }
   
